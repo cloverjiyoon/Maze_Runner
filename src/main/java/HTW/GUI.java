@@ -173,6 +173,7 @@ public class GUI extends Application {
             maze = new WrappingRoomMaze(col, row, numOfWalls, pitNum, batNum, arrowNum);
         }
         else{
+
             maze = new RoomMaze(col, row, numOfWalls, pitNum, batNum, arrowNum);
         }
 
