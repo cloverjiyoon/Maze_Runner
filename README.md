@@ -5,10 +5,8 @@
 - Utilized Object Oriented Design with MVC model to construct a random maze every time when user starts the game which contains classes of players, wall of the maze, interfaces, and method signatures
 
 ## 2D version Demo
-
-
+[2D Demo Video Link](https://youtu.be/IZeWTo71A6k)
 
 ## 3D version Demo
-
-
+[3D Demo Video Link](https://youtu.be/0iJo1n8yGZE)
 
